@@ -1,5 +1,3 @@
-@import "../../vars.css";
-
 .home {
   display: flex;
   justify-content: space-between;
@@ -24,7 +22,7 @@ p {
 }
 
 .exploreButton {
-  background-color: #8b0000; /* Dark red */
+  background-color: #8b0000;
   color: white;
   border: none;
   padding: 10px 20px;
@@ -35,7 +33,7 @@ p {
 }
 
 .exploreButton:hover {
-  background-color: #a80000; /* Lighter red on hover */
+  background-color: #a80000;
 }
 
 .imageContainer {
